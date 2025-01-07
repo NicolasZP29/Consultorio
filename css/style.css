@@ -423,7 +423,7 @@ a:focus {
 }
 
 .slider_section .img-box img {
-  width: 10%;
+  width: 100%;
 }
 
 .slider_section .carousel_btn-box {
@@ -581,7 +581,7 @@ a:focus {
 }
 
 .about_section .img-box img {
-  max-width: 10%;
+  max-width: 100%;
 }
 
 .about_section .detail-box p {
